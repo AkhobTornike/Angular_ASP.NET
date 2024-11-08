@@ -1,0 +1,35 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Angular build output
+dist/
+.angular/
+
+# Environment files for Angular
+src/environments/environment.*.ts
+
+# ASP.NET build and config files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache and configuration directories
+.vs/
+.vscode/
+
+# ASP.NET secret and temporary files
+Secrets/
+.aspnet/
+
+# Log files
+*.log
+
+# Others (e.g., by OS)
+*.DS_Store
+Thumbs.db
